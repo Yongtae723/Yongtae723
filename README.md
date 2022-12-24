@@ -10,19 +10,21 @@ This page introduces my skills, OSS contribution and blogs.
 - +6 years of experience in a wide range of programs including large-scale simulation and AI research and development
     - PyTorch/ PyTorch Lightning
     - FastAPI
+    - TorchScript
     - sklearn
     - Pandas
     - docker
     - git
     - GCP
     - SPARQL
+    - Vertex AI
 
 - About AI skill
     - Text and/or image classification ([blog](https://tech.jxpress.net/entry/2022/08/18/120000)).
     - multilingual text classification.
     - Explanable AI ([blog](https://tech.jxpress.net/entry/2022/08/18/120000)).
     - Text summarization (multilingual)
-    - Train on Vertex AI.
+    - Vertex AI.
     - Deploy ml model on many GCP services.
 
 
