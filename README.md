@@ -39,6 +39,7 @@ This page introduces my skills, OSS contribution and blogs.
 
 - [lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template)
 - [setfit](https://github.com/huggingface/setfit)
+- [langchain](https://github.com/hwchase17/langchain)
 
 # 📝 Blogs
 
