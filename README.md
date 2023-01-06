@@ -11,10 +11,10 @@ This page introduces my skills, OSS contribution and blogs.
     - PyTorch/ PyTorch Lightning
     - FastAPI
     - TorchScript
-    - sklearn
+    - Sklearn
     - Pandas
-    - docker
-    - git
+    - Docker
+    - Git
     - GCP
     - SPARQL
     - Vertex AI
