@@ -34,6 +34,7 @@ This page introduces my skills, OSS contribution and blogs.
 - Vertex AI × Hydra × PyTorch Lightning: [lightning-hydra-template-vertex-ai](https://github.com/jxpress/lightning-hydra-template-vertex-ai)
 - Vertex AI Pipeline × Hydra: [hydra-vertex-ai-pipeline](https://github.com/jxpress/hydra-vertex-ai-pipeline)
 - SetFit × PyTorch Lightning: [setfit-pytorch-lightning](https://github.com/jxpress/setfit-pytorch-lightning)
+- AI bot will do your introductions for you!: [ask_everything_about_me](https://github.com/Yongtae723/ask_everything_about_me)
 
 **Repositories that I contribute**
 
