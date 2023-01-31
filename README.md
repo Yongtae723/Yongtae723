@@ -2,7 +2,9 @@
 
 I am Yongtae Hwang, Korean but born and grow up in Japan.
 Now I am a Senior Full-stack Machine Learning Engineer.
-If you want to know more about me, see [LinkedIn](https://www.linkedin.com/in/hwang-yongtae/) or [Twitter](https://twitter.com/Yoooongtae).
+
+If you want to know more about me, you can ask everything about me on [My Personal AI BOT.](https://about-yongtae-cfa5uiil5a-an.a.run.app/)
+
 
 This page introduces my skills, OSS contribution and blogs.
 
@@ -22,7 +24,7 @@ This page introduces my skills, OSS contribution and blogs.
 - About AI skill
     - Text and/or image classification ([blog](https://tech.jxpress.net/entry/2022/08/18/120000)).
     - multilingual text classification.
-    - Explanable AI ([blog](https://tech.jxpress.net/entry/2022/08/18/120000)).
+    - Explainable AI ([blog](https://tech.jxpress.net/entry/2022/08/18/120000)).
     - Text summarization (multilingual)
     - Vertex AI.
     - Deploy ml model on many GCP services.
@@ -57,7 +59,7 @@ This page introduces my skills, OSS contribution and blogs.
 - [AI開発時に、あるClassのデータを集中的に追加する時のTipsと注意点](https://tech.jxpress.net/entry/2022/08/18/120000)
 - [Hydraで書かれたコードをVertex AIでハイパーパラメータ調整できるようにした](https://tech.jxpress.net/entry/2022/08/18/113011)
 
-**Scientific work at Ph.D student**
+**Scientific work when I Ph.D. student**
 - [【Research Paper】A reverse stroke characterizes the force generation of cardiac myofilaments, leading to an understanding of heart function (PNAS 2021)](https://www.pnas.org/doi/10.1073/pnas.2011659118?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)
 - [The search for molecular mechanisms of stable and economical heart contractions planted in cardiac myosin](http://www.s.u-tokyo.ac.jp/en/press/2021/7434/)
 - [東大、安定でエコな心臓収縮を実現する仕組みを心臓のタンパク質心筋ミオシンから発見 日経新聞](https://www.nikkei.com/article/DGXLRSP611161_X20C21A5000000/)
