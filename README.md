@@ -43,11 +43,14 @@ This page introduces my skills, OSS contribution and blogs.
 - [lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template)
 - [setfit](https://github.com/huggingface/setfit)
 - [langchain](https://github.com/hwchase17/langchain)
+- [Flowise](https://github.com/FlowiseAI/Flowise)
+- [FlowiseChatEmbed](https://github.com/FlowiseAI/FlowiseChatEmbed)
 
 # 📝 Blogs
 
 **Work style**
 - [事業の役立つAIを作るJX通信社の機械学習エンジニア / ファン・ヨンテさん](https://www.wantedly.com/companies/jxpress/post_articles/368301)
+- [Yongtae Hwang: 単にプロダクトではなく、「良い組織」を創るための汎用ソリューションそのものをプロトタイピングしたい](https://note.com/beatrust/n/n05383a02711e)
 
 **Team building**
 - [属人化しがちなR&Dをチーム開発するためのJX通信社での工夫](https://tech.jxpress.net/entry/2021/10/27/160154)
