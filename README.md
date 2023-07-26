@@ -3,7 +3,7 @@
 I am Yongtae Hwang, Korean but born and grow up in Japan.
 Now I am a Senior Full-stack Machine Learning Engineer.
 
-If you want to know more about me, you can ask everything about me on [My Personal AI BOT.](https://about-yongtae-cfa5uiil5a-an.a.run.app/)
+If you want to know more about me, you can ask everything about me on [My Personal AI BOT in my personal Homepage.](https://yong723enjoyeveryt.editorx.io/mysite/en)
 
 
 This page introduces my skills, OSS contribution and blogs.
