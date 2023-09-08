@@ -62,6 +62,8 @@ This page introduces my skills, OSS contribution and blogs.
 - [Hydraで書かれたコードをVertex AI Pipelineで動作できるようにした](https://tech.jxpress.net/entry/2022/10/31/113519)
 - [AI開発時に、あるClassのデータを集中的に追加する時のTipsと注意点](https://tech.jxpress.net/entry/2022/08/18/120000)
 - [Hydraで書かれたコードをVertex AIでハイパーパラメータ調整できるようにした](https://tech.jxpress.net/entry/2022/08/18/113011)
+- [Try Google Vertex AI Palm 2 with Flowise: Without Coding to Leverage Intuition
+](https://tech.beatrust.com/entry/2023/08/22/Try_Google_Vertex_AI_Palm_2_with_Flowise%3A_Without_Coding_to_Leverage_Intuition)
 
 **Scientific work when I Ph.D. student**
 - [【Research Paper】A reverse stroke characterizes the force generation of cardiac myofilaments, leading to an understanding of heart function (PNAS 2021)](https://www.pnas.org/doi/10.1073/pnas.2011659118?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)
