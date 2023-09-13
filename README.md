@@ -46,6 +46,7 @@ This page introduces my skills, OSS contribution and blogs.
 - [langchainjs](https://github.com/hwchase17/langchainjs)
 - [Flowise](https://github.com/FlowiseAI/Flowise)
 - [FlowiseChatEmbed](https://github.com/FlowiseAI/FlowiseChatEmbed)
+- [ragas](https://github.com/explodinggradients/ragas)
 
 # 📝 Blogs
 
