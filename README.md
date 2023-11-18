@@ -48,6 +48,14 @@ This page introduces my skills, OSS contribution and blogs.
 - [FlowiseChatEmbed](https://github.com/FlowiseAI/FlowiseChatEmbed)
 - [ragas](https://github.com/explodinggradients/ragas)
 
+# 
+
+# 🎤 Presentations
+
+**Conference Talks**
+- [Google Cloud Next Tokyo 2023](link)
+- Google Digital Native Leaders Meetup (4th) (no public url)
+
 # 📝 Blogs
 
 **Work style**
