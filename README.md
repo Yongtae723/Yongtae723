@@ -49,13 +49,18 @@ This page introduces my skills, OSS contribution and blogs.
 - [ragas](https://github.com/explodinggradients/ragas)
 - [dify](https://github.com/langgenius/dify)
 
-# 
 
 # 🎤 Presentations
 
 **Conference Talks**
 - [Google Cloud Next Tokyo 2023](link)
 - Google Digital Native Leaders Meetup (4th) (no public url)
+
+# 📚 Patents
+
+- [特許7574522: 人材のマッチングシステム、プログラムおよびマッチング方法](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202403005214900364&rel=1#%7B%22category%22%3A%223%22%2C%22keyword%22%3A%22%E9%BB%84%20%E5%8B%87%E5%A4%AA%22%2C%22page%22%3A1%2C%22words%22%3A%5B%7B%22groupId%22%3A%22AY%22%2C%22displayVal%22%3A%222024%22%2C%22searchVal%22%3A%222024%22%7D%5D%7D)
+- [特許7388649: 顔画像を学習済みモデルを用いた服装提案装置](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202303019336511842)
+- [特許7341367: リスク判定に基づき翻訳対象を選別する情報処理装置、プログラム及び情報処理方法](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202303010223102795&rel=1#%7B%22category%22%3A%223%22%2C%22keyword%22%3A%227341367%22%7D)
 
 # 📝 Blogs
 
@@ -83,3 +88,10 @@ This page introduces my skills, OSS contribution and blogs.
 - [The search for molecular mechanisms of stable and economical heart contractions planted in cardiac myosin](http://www.s.u-tokyo.ac.jp/en/press/2021/7434/)
 - [東大、安定でエコな心臓収縮を実現する仕組みを心臓のタンパク質心筋ミオシンから発見 日経新聞](https://www.nikkei.com/article/DGXLRSP611161_X20C21A5000000/)
 - [한빛사 황용태](https://www.ibric.org/myboard/read.php?id=70195&Board=hbs_treatise&idauthorid=35318&ttype=0&fbclid=IwAR2O0lGW8nqjLkvy_D-WGaJy8-xEM1YDxa6P9g_PQoLuE4-oYNweKbaAkAU)
+
+# 📧 Contact
+
+If you want to contact me, please use the following information.
+- Email: yong723.enjoy.everything@gmail.com
+- LinkedIn: [Yongtae Hwang](https://www.linkedin.com/in/hwang-yongtae/)
+- Twitter: [@YongtaeHwang](https://x.com/Yoooongtae)
