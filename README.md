@@ -82,12 +82,14 @@ This page introduces my skills, OSS contribution and blogs.
     - [RAG Evaluation: Necessity and Challenge](https://tech.beatrust.com/entry/2024/05/02/RAG_Evaluation%3A_Necessity_and_Challenge)
     - [RAG Evaluation : Computational Metrics in RAG and Calculation Methods in Ragas](https://tech.beatrust.com/entry/2024/05/02/RAG_Evaluation_%3A_Computational_Metrics_in_RAG_and_Calculation_Methods_in_Ragas)
     - [RAG Evaluation: Assessing the Usefulness of Ragas](https://tech.beatrust.com/entry/2024/05/02/RAG_Evaluation%3A_Assessing_the_Usefulness_of_Ragas)
+- [Beatrust Scout's Matching Algorithm](https://note.com/beatrust/n/n3b28c626a319?magazine_key=mb393291a23f8)
 
 **Scientific work when I Ph.D. student**
 - [【Research Paper】A reverse stroke characterizes the force generation of cardiac myofilaments, leading to an understanding of heart function (PNAS 2021)](https://www.pnas.org/doi/10.1073/pnas.2011659118?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)
 - [The search for molecular mechanisms of stable and economical heart contractions planted in cardiac myosin](http://www.s.u-tokyo.ac.jp/en/press/2021/7434/)
 - [東大、安定でエコな心臓収縮を実現する仕組みを心臓のタンパク質心筋ミオシンから発見 日経新聞](https://www.nikkei.com/article/DGXLRSP611161_X20C21A5000000/)
 - [한빛사 황용태](https://www.ibric.org/myboard/read.php?id=70195&Board=hbs_treatise&idauthorid=35318&ttype=0&fbclid=IwAR2O0lGW8nqjLkvy_D-WGaJy8-xEM1YDxa6P9g_PQoLuE4-oYNweKbaAkAU)
+- [Considering the effect of Pi rebinding on myosin dynamics based on the distinct functions of cardiac and skeletal myosin](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2025.1605321/full)
 
 # 📧 Contact
 
