@@ -83,6 +83,10 @@ This page introduces my skills, OSS contribution and blogs.
     - [RAG Evaluation : Computational Metrics in RAG and Calculation Methods in Ragas](https://tech.beatrust.com/entry/2024/05/02/RAG_Evaluation_%3A_Computational_Metrics_in_RAG_and_Calculation_Methods_in_Ragas)
     - [RAG Evaluation: Assessing the Usefulness of Ragas](https://tech.beatrust.com/entry/2024/05/02/RAG_Evaluation%3A_Assessing_the_Usefulness_of_Ragas)
 - [Beatrust Scout's Matching Algorithm](https://note.com/beatrust/n/n3b28c626a319?magazine_key=mb393291a23f8)
+- [LIFFとNext.js, Supabaseでのログインレス認証方法](https://qiita.com/yongyong/items/8bf9e2a9da23dc2f148f)
+- [Cloudflare x LIFFで動的OGPを実装した方法](https://qiita.com/yongyong/items/b2f5a58fd2c0cd2be44c)
+- [Serverless MLレコメンデーション：LLMを活用した自身でモデルを持たない、レコメンデーションの実装](https://qiita.com/yongyong/items/71a9dd65a649f2a225b8)
+
 
 **Scientific work when I Ph.D. student**
 - [【Research Paper】A reverse stroke characterizes the force generation of cardiac myofilaments, leading to an understanding of heart function (PNAS 2021)](https://www.pnas.org/doi/10.1073/pnas.2011659118?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)
